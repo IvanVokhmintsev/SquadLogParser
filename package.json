@@ -1,0 +1,25 @@
+{
+  "name": "squadlogparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "sequelize": "^6.7.0",
+    "sqlite3": "^5.0.2",
+    "tail": "^2.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
